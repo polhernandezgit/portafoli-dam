@@ -1,0 +1,24 @@
+==================================================
+PORTAFOLI PERSONAL I BITÀCOLA DE DESENVOLUMAPENT
+==================================================
+
+1. SOBRE MI
+-----------
+Nom i cognoms: Pol Hernandez
+Cicle: CFGS Desenvolupament d'aplicacions multiplataforma (DAM)
+Presentació: M’apassiona el món de la tecnologia, especialment tot allò relacionat amb el maquinari, les xarxes informàtiques i la seguretat digital. M’agrada entendre com funcionen els sistemes per dins i trobar solucions pràctiques a problemes tècnics reals.
+
+M’agrada treballar tant de forma autònoma com en equip, aprenent de les persones que m’envolten i millorant dia rere dia.
+
+2. HABILITATS I EINES TÈCNIQUES
+-------------------------------
+- Sistemes operatius: Linux (Ubuntu/Debian), Windows
+- Control de versions: Git, Github
+- Línia de comandes: Bash / Terminal
+- Entorns i eines: MySQL, notion, java...
+
+3. BITÀCOLA DE PROJECTES I PRACTIQUES
+-------------------------------------
+Practica 01: configuració de l'entorn i repositori git
+- Descripcio: Creació del portafoli personal i configuració del control de versions.
+
